@@ -1,0 +1,13 @@
+[20250628_122712] Backup created: backup_20250628_122712.tar.gz
+Files backed up:
+file1.txt
+file2.txt
+------------------------
+[20250628_122807] Backup created: backup_20250628_122807.tar.gz
+file1.txt
+file2.txt
+------------------------
+[20250628_122943] Backup created: backup_20250628_122943.tar.gz
+file1.txt
+file2.txt
+------------------------

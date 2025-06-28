@@ -1,0 +1,11 @@
+Log Summary Report - Sat Jun 28 12:52:10 PDT 2025
+-----------------------------
+Total lines:        6
+ERRORs: 2
+WARNINGs: 2
+Top 5 words:
+   2 warning
+   2 system
+   2 info
+   2 error
+   2 disk
